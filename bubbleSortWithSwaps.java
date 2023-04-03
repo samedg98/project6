@@ -1,5 +1,4 @@
 /* Samed Ganibegovic
- * Date: 10/20/2019
  * Purpose: Empirical analysis of Bubble Sort With Swaps Counting
 
  * Reference for algorithms - GeeksForGeeks
