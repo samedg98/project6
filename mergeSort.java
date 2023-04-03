@@ -1,5 +1,4 @@
 /* Samed Ganibegovic
- * Date: 10/20/2019
  * Purpose: Empirical analysis of Merge Sort
 
  * Reference for algorithms - GeeksForGeeks
